@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582471005 source:c:\latihan coding\latihan_1301194020\circular double linked list\main.cpp
+	"cdll.h"
+
+1582470841 source:c:\latihan coding\latihan_1301194020\circular double linked list\cdll.cpp
+	"cdll.h"
+
+1582470508 c:\latihan coding\latihan_1301194020\circular double linked list\cdll.h
+	<iostream>
+
