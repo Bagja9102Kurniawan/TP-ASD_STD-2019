@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581259504 source:c:\latihan coding\latihan_1301194020\mod3_1301194020_if 43 05\main.cpp
+	"perpustelyu.h"
+
+1581259505 c:\latihan coding\latihan_1301194020\mod3_1301194020_if 43 05\perpustelyu.h
+	<iostream>
+
+1581259505 source:c:\latihan coding\latihan_1301194020\mod3_1301194020_if 43 05\perpustelyu.cpp
+	"perpustelyu.h"
+
