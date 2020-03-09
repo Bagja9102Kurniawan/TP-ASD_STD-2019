@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580655159 source:c:\latihan coding\latihan_1301194020\mod2_1301194020_if-43-05\main.cpp
+	<iostream>
+	"list.h"
+
+1580655173 source:c:\latihan coding\latihan_1301194020\mod2_1301194020_if-43-05\list.cpp
+	"list.h"
+
+1580655159 c:\latihan coding\latihan_1301194020\mod2_1301194020_if-43-05\list.h
+	<iostream>
+
