@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1581860613 source:c:\latihan coding\latihan_1301194020\doublelinkedlist\main.cpp
+	"doublelinkedlist.h"
+
+1581860613 source:c:\latihan coding\latihan_1301194020\doublelinkedlist\doublelinkedlist.cpp
+	"doublelinkedlist.h"
+
+1581860613 c:\latihan coding\latihan_1301194020\doublelinkedlist\doublelinkedlist.h
+	<iostream>
+
